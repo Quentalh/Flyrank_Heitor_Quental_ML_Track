@@ -3,7 +3,7 @@
 ## 1. Portfolio Sitemap Design
 Below is the digital sitemap structured for a minimalist, single-page scrolling portfolio.
 
-![Portfolio Sitemap](Portfolio_Sitemap.png)
+![Portfolio Sitemap](Portfolio_Sitemap.png)<img width="962" height="824" alt="Portfolio_Sitemap" src="https://github.com/user-attachments/assets/c92fc500-de2a-4043-bca1-10d18472f887" />
 
 * **Hero / Landing**: States the core claim and immediate call to action.
 * **Projects / Work**: Displays technical proof-of-work (Buffet Brain, Jarvis, Transcriptor).
@@ -16,12 +16,12 @@ Below is the digital sitemap structured for a minimalist, single-page scrolling 
 Here is the configured Claude Project workspace and custom instructions used for ongoing tutoring and evaluation.
 
 ### Project Workspace View
-![Claude Project Portfolio](Claude_project_portfolio.png)
+![Claude Project Portfolio](Claude_project_portfolio.png)<img width="1918" height="958" alt="Claude_project_portfolio" src="https://github.com/user-attachments/assets/98682a77-515a-4211-9d7f-a95178abbd09" />
 
 ### Custom Instructions Set
 ![Instruções Projeto Portfolio](Instruções_projeto_portfolio.png)<img width="736" height="524" alt="Instruções_projeto_portfolio" src="https://github.com/user-attachments/assets/8e50954a-eaa1-4b9a-8d27-d368dcf16cd8" />
-<img width="1918" height="958" alt="Claude_project_portfolio" src="https://github.com/user-attachments/assets/98682a77-515a-4211-9d7f-a95178abbd09" />
-<img width="962" height="824" alt="Portfolio_Sitemap" src="https://github.com/user-attachments/assets/c92fc500-de2a-4043-bca1-10d18472f887" />
+
+
 
 
 > **Custom Instructions Used:**
