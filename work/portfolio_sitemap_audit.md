@@ -60,4 +60,11 @@ Good sitemap to work with — it's already thinking in terms of "claim $\rightar
 4. **One CTA button does not equal one CTA moment.** Relying 100% on scroll completion hurts conversion odds. Add a sticky nav or repeated soft CTA.
 
 #### Direct Answer to Your Pressure-Test Question
-No — reordering and adding a skills strip resolves the navigation problem, but it does not resolve the evidentiary credibility gap. You cannot structure your way out of a lopsided evidence-to-claim ratio.
+No — reordering and adding a skills strip resolves the navigation problem, but it does not resolve the evidentiary credibility gap, because that gap is evidentiary, not structural. You can't structure your way out of "one intro lab" supporting a claim positioned as equal to three flagship AI projects. The sitemap is now well-organized around a claim that's still lopsided.
+Two moves, pick based on timeline:
+
+Fast fix (this week): Soften the claim's phrasing so it matches the evidence you actually have.
+Real fix (worth the extra week): Build one more concrete security artifact and let the claim stand as written.
+
+I'd genuinely recommend the second — "AI engineering + foundational cybersecurity" is a strong, differentiated positioning in a sea of "full-stack student" portfolios, and it's a shame to undercut it with thin evidence when one more project closes the gap.
+Want to work through what a fast, credible second security artifact could look like given your existing projects (e.g., auditing Buffet Brain or Jarvis for a specific vuln class)?
