@@ -3,7 +3,7 @@
 ## 1. Portfolio Sitemap Design
 Below is the digital sitemap structured for a minimalist, single-page scrolling portfolio.
 
-![Portfolio Sitemap](Portfolio_Sitemap.png)<img width="962" height="824" alt="Portfolio_Sitemap" src="https://github.com/user-attachments/assets/c92fc500-de2a-4043-bca1-10d18472f887" />
+!Portfolio Sitemap(Portfolio_Sitemap.png)<img width="962" height="824" alt="Portfolio_Sitemap" src="https://github.com/user-attachments/assets/c92fc500-de2a-4043-bca1-10d18472f887" />
 
 * **Hero / Landing**: States the core claim and immediate call to action.
 * **Projects / Work**: Displays technical proof-of-work (Buffet Brain, Jarvis, Transcriptor).
